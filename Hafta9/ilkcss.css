@@ -1,0 +1,25 @@
+#koylu{
+    text-transform: capitalize;
+    font-size: 2cm;
+    font-style:  italic;
+    text-decoration: underline;
+    text-align:center ;
+}
+#milletin{
+    font-style: oblique;
+    text-align: justify;
+    text-transform: lowercase ;
+    line-height: 70px;
+    
+}
+.eray{
+    text-transform: uppercase;
+    line-height: 20px;
+    background-color: #d40aa2;
+}
+body{
+    background-color: rgb(136, 255, 0);
+}
+html{
+    background-color: rgb(0, 0, 0);
+}
